@@ -1,15 +1,16 @@
 {
   "name": "steal-conditional-example",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Example app using the steal-conditional extension",
   "main": "index.js",
   "scripts": {
     "build": "steal-tools",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint *.js --config .jshintrc"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "jshint": "^2.9.4",
     "steal": "^0.16.37",
     "steal-conditional": "^0.1.3",
     "steal-tools": "^0.16.8",
