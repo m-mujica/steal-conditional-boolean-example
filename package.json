@@ -11,9 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jshint": "^2.9.4",
-    "steal": "^1.0.0-rc.10",
-    "steal-conditional": "^0.2.1",
-    "steal-tools": "^1.0.0-rc.8",
+    "steal": "^1.0.6",
+    "steal-tools": "^1.0.1",
     "whatwg-fetch": "^1.0.0"
   },
   "steal": {
